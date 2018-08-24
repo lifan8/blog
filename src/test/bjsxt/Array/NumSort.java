@@ -1,3 +1,4 @@
+package bjsxt.Array;
 public class NumSort {
 	public static void main(String[] args) {
 		int[] a = new int[args.length];

@@ -1,3 +1,4 @@
+package bjsxt.container;
 import java.util.*;
 public class TestArgsWords2 {
   private static final int ONE = 1;

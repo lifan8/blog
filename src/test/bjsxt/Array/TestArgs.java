@@ -1,3 +1,4 @@
+package bjsxt.Array;
 public class TestArgs {
 	public static void main(String[] args) {
 		/*

@@ -1,3 +1,4 @@
+package bjsxt.Array;
 public class Count3Quit2 {
 	public static void main(String[] args) {
 		KidCircle kc = new KidCircle(500);

@@ -1,3 +1,4 @@
+package bjsxt.Array;
 public class Count3Quit {
 	public static void main(String[] args) {
 		boolean[] arr = new boolean[500];

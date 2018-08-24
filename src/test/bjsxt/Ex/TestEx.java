@@ -1,3 +1,4 @@
+package bjsxt.Ex;
 import java.io.*;
 
 public class TestEx {
@@ -15,7 +16,7 @@ public class TestEx {
 		try {
 			System.out.println(2/0);
 		} catch (ArithmeticException e) {
-			System.out.println("ÏµÍ³ÕýÔÚÎ¬»¤,ÇëÓë¹ÜÀíÔ±ÁªÏµ");
+			System.out.println("ÏµÍ³ï¿½ï¿½ï¿½ï¿½Î¬ï¿½ï¿½,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô±ï¿½ï¿½Ïµ");
 			e.printStackTrace();
 		}
 		*/
@@ -28,7 +29,7 @@ public class TestEx {
 			new TestEx().m(0);
 		} catch (ArithmeticException ae) {
 			ae.printStackTrace();
-			System.out.println("³ö´íÁË");
+			System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 		}
 		*/
 		
@@ -46,9 +47,6 @@ public class TestEx {
     } catch (IOException e) {
       System.out.println(e.getMessage());
      	
-    } catch (FileNotFoundException e) {
-    	e.printStackTrace(); 
-      
     } finally {
     	try {
       	in.close();
@@ -62,7 +60,7 @@ public class TestEx {
 	
 	void m(int i) throws ArithmeticException {
 		if(i==0) 
-			throw new ArithmeticException("±»³ýÊýÎª0");
+			throw new ArithmeticException("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îª0");
 	}
 	
 	void f() throws FileNotFoundException , IOException {

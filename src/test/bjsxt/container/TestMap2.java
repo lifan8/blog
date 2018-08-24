@@ -1,3 +1,4 @@
+package bjsxt.container;
 import java.util.*;
 public class TestMap2 {
   public static void main(String args[]) {
