@@ -1,4 +1,4 @@
-package com.bjsxt.base.coll013;
+package multi.m3.coll013;
 
 import java.util.Iterator;
 import java.util.Map;

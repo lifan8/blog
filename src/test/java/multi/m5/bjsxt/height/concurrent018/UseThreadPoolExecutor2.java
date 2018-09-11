@@ -1,4 +1,4 @@
-package com.bjsxt.height.concurrent018;
+package multi.m5.bjsxt.height.concurrent018;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;

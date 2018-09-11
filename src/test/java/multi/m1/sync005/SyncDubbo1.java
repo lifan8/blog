@@ -1,4 +1,4 @@
-package com.bjsxt.base.sync005;
+package multi.m1.sync005;
 /**
  * synchronized的重入
  * @author alienware

@@ -1,4 +1,4 @@
-package com.bjsxt.base.conn011;
+package multi.m2.conn011;
 
 public class DubbleSingleton {
 

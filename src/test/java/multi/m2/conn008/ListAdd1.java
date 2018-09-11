@@ -1,4 +1,4 @@
-package com.bjsxt.base.conn008;
+package multi.m2.conn008;
 
 import java.util.ArrayList;
 import java.util.List;

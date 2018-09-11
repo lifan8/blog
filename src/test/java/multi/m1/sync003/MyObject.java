@@ -1,4 +1,4 @@
-package com.bjsxt.base.sync003;
+package multi.m1.sync003;
 
 /**
  * 对象锁的同步和异步问题

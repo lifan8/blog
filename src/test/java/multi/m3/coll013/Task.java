@@ -1,4 +1,4 @@
-package com.bjsxt.base.coll013;
+package multi.m3.coll013;
 
 public class Task implements Comparable<Task>{
 	

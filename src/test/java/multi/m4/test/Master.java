@@ -1,4 +1,4 @@
-package test;
+package multi.m4.test;
 
 import java.util.HashMap;
 import java.util.Map;

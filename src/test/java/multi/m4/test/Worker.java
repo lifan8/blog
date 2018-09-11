@@ -1,4 +1,4 @@
-package test;
+package multi.m4.test;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentLinkedQueue;

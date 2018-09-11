@@ -1,4 +1,4 @@
-package com.bjsxt.base.sync006;
+package multi.m1.sync006;
 /**
  * 同一对象属性的修改不会影响锁的情况
  * @author alienware

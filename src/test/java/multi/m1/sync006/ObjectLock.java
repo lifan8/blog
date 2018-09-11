@@ -1,4 +1,4 @@
-package com.bjsxt.base.sync006;
+package multi.m1.sync006;
 
 /**
  * 使用synchronized代码块加锁,比较灵活

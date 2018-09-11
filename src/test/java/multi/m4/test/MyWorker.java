@@ -1,4 +1,4 @@
-package test;
+package multi.m4.test;
 
 public class MyWorker extends Worker {
 	

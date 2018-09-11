@@ -1,4 +1,4 @@
-package com.bjsxt.height.lock021;
+package multi.m6.height.lock021;
 
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock.ReadLock;

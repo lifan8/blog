@@ -1,4 +1,4 @@
-package com.bjsxt.base.conn010;
+package multi.m2.conn010;
 
 public class ConnThreadLocal {
 

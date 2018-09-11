@@ -1,4 +1,4 @@
-package com.bjsxt.base.sync007;
+package multi.m1.sync007;
 
 import java.util.ArrayList;
 import java.util.List;

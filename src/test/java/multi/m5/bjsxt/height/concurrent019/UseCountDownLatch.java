@@ -1,4 +1,4 @@
-package com.bjsxt.height.concurrent019;
+package multi.m5.bjsxt.height.concurrent019;
 
 import java.util.concurrent.CountDownLatch;
 

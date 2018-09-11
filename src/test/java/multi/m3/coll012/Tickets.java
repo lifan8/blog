@@ -1,4 +1,4 @@
-package com.bjsxt.base.coll012;
+package multi.m3.coll012;
 
 import java.util.Collections;
 import java.util.HashMap;
